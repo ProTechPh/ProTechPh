@@ -59,7 +59,7 @@ const jericko = {
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite,postgresql&theme=dark" />
 
 ### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark" />
 
 </div>
 
@@ -170,7 +170,7 @@ const jericko = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://myportfolio.protech.works/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://myportfolio.protech.works)
 [![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white)](mailto:jerickogarcia0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-45B7D1?style=for-the-badge&logoColor=white)](https://linkedin.com/in/jericko-garcia)
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-96CEB4?style=for-the-badge&logoColor=white)](https://github.com/ProTechPh)
