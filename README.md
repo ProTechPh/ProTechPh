@@ -12,17 +12,15 @@
 
 ## 🔥 ABOUT THE DEVELOPER
 
-<div align="center">
-
 ```typescript
 const jericko = {
     name: "Jericko Garcia",
     role: "Full Stack Developer & Software Engineer",
     location: "Philippines 🇵🇭",
     status: "Open for Commissions 💼",
-    
+
     currentFocus: ["Capstone Projects", "AI Integration", "Mobile Development"],
-    
+
     techStack: {
         frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
         backend: ["Python", "PHP", "Node.js", "Flask"],
@@ -30,17 +28,15 @@ const jericko = {
         database: ["Firebase", "Supabase", "MySQL", "SQLite"],
         tools: ["Git", "Vercel", "Docker", "VS Code"]
     },
-    
+
     philosophy: "Clean Code + Great UX = Amazing Products ✨",
-    
+
     contact: {
         email: "jerickogarcia0@gmail.com",
         availability: "Always ready for new challenges! 🚀"
     }
 };
 ```
-
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -98,13 +94,13 @@ const jericko = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
 </div>
 
-## 🚀 FEATURED PROJECTS
+## � FEATURED PROJECTS
 
 <div align="center">
 
 | 🏆 **PROJECT** | 🔗 **LIVE DEMO** | ⚡ **TECH STACK** |
 |:---:|:---:|:---:|
-| **📱 Gitfolio** | [🚀 Launch](https://tinyurl.com/Gitfolio1) | `Flutter` `PostgreSQL` `SQLite` |
+| **�📱 Gitfolio** | [🚀 Launch](https://tinyurl.com/Gitfolio1) | `Flutter` `PostgreSQL` `SQLite` |
 | **🛒 E-commerce** | [🚀 Launch](https://e-commerce-jericko12s-projects.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
 | **🍳 Recipe Hub** | [🚀 Launch](https://recipe-hub-jericko12s-projects.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
 | **💸 WalletWise** | [🚀 Launch](https://wallet-wise-rho.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
@@ -117,7 +113,7 @@ const jericko = {
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProTechPh&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
 </div>
 
-### 🔥 **HIGHLIGHT PROJECTS**
+### � **HIGHLIGHT PROJECTS**
 
 <details>
 <summary><b>🤖 AI-Powered Resume Analyzer</b></summary>
@@ -153,16 +149,16 @@ const jericko = {
 
 <div align="center">
 
-| 🎯 **MILESTONE** | ✅ **STATUS** |
-|:---:|:---:|
-| **🚀 Production-Ready Projects** | **15+ Deployed** |
-| **📱 Mobile Applications** | **Published on App Stores** |
-| **🌐 Full-Stack Web Apps** | **Modern Tech Stack** |
-| **🤖 AI-Powered Solutions** | **Machine Learning Integration** |
-| **🔧 Open Source Projects** | **Community Contributions** |
-| **⚡ Real-Time Applications** | **System Monitoring Tools** |
-| **🎨 UI/UX Design** | **Responsive Web Development** |
-| **📊 Data Visualization** | **Analytics Dashboards** |
+```diff
++ 🚀 15+ Production-Ready Projects Deployed
++ 📱 Mobile Applications Published on App Stores
++ 🌐 Full-Stack Web Applications with Modern Tech Stack
++ 🤖 AI-Powered Solutions & Machine Learning Integration
++ 🔧 Open Source Contributions & Community Projects
++ ⚡ Real-Time Applications & System Monitoring Tools
++ 🎨 UI/UX Design & Responsive Web Development
++ � Data Visualization & Analytics Dashboards
+```
 
 </div>
 
@@ -191,25 +187,25 @@ const jericko = {
 
 ### 🔥 **READY TO BUILD YOUR NEXT BIG IDEA?**
 
-</div>
+```yaml
+Services:
+  - 🌐 Full-Stack Web Development
+  - 📱 Mobile App Development (Flutter/React Native)
+  - 🤖 AI Integration & Machine Learning Solutions
+  - 🎨 UI/UX Design & Prototyping
+  - � Data Analytics & Visualization
+  - ⚡ Real-Time Applications & APIs
 
-<div align="center">
+Specialties:
+  - React/Next.js Ecosystem
+  - Python/Flask Backend Development
+  - Flutter Mobile Development
+  - Firebase/Supabase Integration
+  - Modern UI/UX Design
 
-| 🚀 **SERVICES** | 🎯 **SPECIALTIES** |
-|:---:|:---:|
-| **🌐 Full-Stack Web Development** | **React/Next.js Ecosystem** |
-| **📱 Mobile App Development** | **Python/Flask Backend** |
-| **🤖 AI Integration & ML Solutions** | **Flutter Mobile Development** |
-| **🎨 UI/UX Design & Prototyping** | **Firebase/Supabase Integration** |
-| **📊 Data Analytics & Visualization** | **Modern UI/UX Design** |
-| **⚡ Real-Time Applications & APIs** | **Clean Code Architecture** |
-
-</div>
-
-<div align="center">
-
-**📧 Contact:** jerickogarcia0@gmail.com  
-**🟢 Status:** ✅ Available for new projects!
+Contact: jerickogarcia0@gmail.com
+Status: ✅ Available for new projects!
+```
 
 </div>
 
