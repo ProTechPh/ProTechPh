@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Developer;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/ProTechPh/portfolio/blob/master/public/profile.png?raw=true" alt="Jericko Garcia" width="200" height="200" style="border-radius: 50%; border: 4px solid #60A5FA;" />
-</div>
-
 ## 🚀 About Me
 
 I'm a passionate **Web Developer** and **Software Developer** who loves building modern, responsive, and accessible web applications. I focus on clean code, great user experience, and beautiful design.
