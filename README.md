@@ -1,129 +1,226 @@
-# Hi there, I'm Jericko Garcia! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Developer;UI%2FUX+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Web Developer** and **Software Developer** who loves building modern, responsive, and accessible web applications. I focus on clean code, great user experience, and beautiful design.
-
-- 🔭 I'm currently working on **capstone projects**
-- 💼 **Open for commissions** and freelance work
-- 🌱 I'm constantly learning new technologies and improving my skills
-- 💡 I enjoy creating solutions that make a difference
-- 📫 How to reach me: **jerickogarcia0@gmail.com**
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProTechPh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=JERICKO%20GARCIA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProTechPh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+FULL+STACK+DEVELOPER;💻+SOFTWARE+ENGINEER;🎨+UI%2FUX+ENTHUSIAST;⚡+PROBLEM+SOLVER;🌟+INNOVATION+DRIVEN" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProTechPh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 🚀 Featured Projects
+## 🔥 ABOUT THE DEVELOPER
 
-### 📱 [Gitfolio](https://tinyurl.com/Gitfolio1)
-Your GitHub profile, always in your pocket! Sign in once with your Personal Access Token — it's encrypted and stored only on your device.
-- **Tech Stack:** Flutter, Turso Database, PostgreSQL, SQLite
+```typescript
+const jericko = {
+    name: "Jericko Garcia",
+    role: "Full Stack Developer & Software Engineer",
+    location: "Philippines 🇵🇭",
+    status: "Open for Commissions 💼",
 
-### 📄 AI-Powered Resume Analyzer & Job Matcher
-A web application that analyzes resumes, suggests improvements, and matches users to relevant job postings using AI.
-- **Tech Stack:** Python, Flask, JavaScript, Bootstrap, NLP
+    currentFocus: ["Capstone Projects", "AI Integration", "Mobile Development"],
 
-### 💰 Smart Personal Finance Tracker
-A comprehensive financial management application with expense tracking, spending analysis, and AI-powered insights.
-- **Tech Stack:** Python, Flask, SQLAlchemy, Bootstrap 5, Pandas, NumPy
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+        backend: ["Python", "PHP", "Node.js", "Flask"],
+        mobile: ["Flutter", "React Native"],
+        database: ["Firebase", "Supabase", "MySQL", "SQLite"],
+        tools: ["Git", "Vercel", "Docker", "VS Code"]
+    },
 
-### 🛒 [E-commerce Platform](https://e-commerce-jericko12s-projects.vercel.app/)
-A complete shopping experience with product listings, categories, and user accounts.
-- **Tech Stack:** Next.js, TypeScript, TailwindCSS
+    philosophy: "Clean Code + Great UX = Amazing Products ✨",
 
-### 🍳 [Recipe Hub](https://recipe-hub-jericko12s-projects.vercel.app/)
-A modern web application for discovering, sharing, and organizing recipes.
-- **Tech Stack:** Next.js, TypeScript, TailwindCSS
-
-### 💸 [WalletWise](https://wallet-wise-rho.vercel.app/)
-Smart money management! Track your expenses and say goodbye to financial stress.
-- **Tech Stack:** Next.js, TypeScript, TailwindCSS
-
-## 🏆 Achievements
-
-- 🎯 **15+ Projects** completed and deployed
-- 📱 **Mobile Apps** published on app stores
-- 🌐 **Full-Stack** web applications with modern tech stack
-- 🔧 **Open Source** contributions and personal projects
-- 💡 **AI Integration** in multiple projects
-
-## 📈 Activity Graph
+    contact: {
+        email: "jerickogarcia0@gmail.com",
+        availability: "Always ready for new challenges! 🚀"
+    }
+};
+```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProTechPh&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-## 🤝 Connect with Me
+## ⚡ TECH ARSENAL
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jericko-garcia)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProTechPh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerickogarcia0@gmail.com)
+
+### 🎯 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,bootstrap&theme=dark" />
+
+### 🔧 Backend Power
+<img src="https://skillicons.dev/icons?i=python,php,nodejs,flask,express&theme=dark" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,dart&theme=dark" />
+
+### 🗄️ Database & Cloud
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite,postgresql&theme=dark" />
+
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,figma&theme=dark" />
 
 </div>
 
-## 💼 Open for Work
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=react,reactjs,React;nextjs,Next.js,Next.js;typescript,TypeScript,TypeScript;&line2=python,Python,Python;flutter,Flutter,Flutter;firebase,Firebase,Firebase;&line3=tailwindcss,TailwindCSS,Tailwind;mysql,MySQL,MySQL;git,Git,Git;" alt="Tech Stack" />
+</div>
 
-I'm currently **open for commissions** and freelance opportunities! Feel free to reach out if you have a project in mind or want to collaborate.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
-- 🔥 **Available for:** Web Development, Mobile App Development, Full-Stack Projects
-- 💻 **Specializing in:** React, Next.js, Flutter, Python, TypeScript
-- 🎯 **Focus:** Clean code, responsive design, user experience
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProTechPh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProTechPh&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProTechPh&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProTechPh&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ProTechPh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+</div>
+
+## � FEATURED PROJECTS
+
+<div align="center">
+
+| 🏆 **PROJECT** | 🔗 **LIVE DEMO** | ⚡ **TECH STACK** |
+|:---:|:---:|:---:|
+| **�📱 Gitfolio** | [🚀 Launch](https://tinyurl.com/Gitfolio1) | `Flutter` `PostgreSQL` `SQLite` |
+| **🛒 E-commerce** | [🚀 Launch](https://e-commerce-jericko12s-projects.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
+| **🍳 Recipe Hub** | [🚀 Launch](https://recipe-hub-jericko12s-projects.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
+| **💸 WalletWise** | [🚀 Launch](https://wallet-wise-rho.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
+| **💊 MediTime** | [🚀 Launch](https://medi-time-rosy.vercel.app/) | `React` `TypeScript` `TailwindCSS` |
+| **✅ TaskMaster** | [🚀 Launch](https://task-master-efficient-task-management-suite.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProTechPh&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
+</div>
+
+### � **HIGHLIGHT PROJECTS**
+
+<details>
+<summary><b>🤖 AI-Powered Resume Analyzer</b></summary>
+<br>
+<blockquote>
+🎯 <b>Revolutionary AI-driven platform</b> that analyzes resumes and matches users to perfect job opportunities<br>
+⚡ <b>Tech:</b> Python • Flask • NLP • Machine Learning • Bootstrap<br>
+🌟 <b>Features:</b> Smart Analysis • Job Matching • Improvement Suggestions
+</blockquote>
+</details>
+
+<details>
+<summary><b>💰 Smart Finance Tracker</b></summary>
+<br>
+<blockquote>
+📊 <b>Comprehensive financial management</b> with AI-powered insights and beautiful visualizations<br>
+⚡ <b>Tech:</b> Python • Flask • SQLAlchemy • Pandas • NumPy • Matplotlib<br>
+🌟 <b>Features:</b> Expense Tracking • Budget Analysis • Financial Insights
+</blockquote>
+</details>
+
+<details>
+<summary><b>📊 System Health Dashboard</b></summary>
+<br>
+<blockquote>
+🖥️ <b>Real-time system monitoring</b> with beautiful GUI and comprehensive resource tracking<br>
+⚡ <b>Tech:</b> Python • Tkinter • Matplotlib • Psutil<br>
+🌟 <b>Features:</b> CPU/RAM Monitoring • Network Stats • Temperature Tracking
+</blockquote>
+</details>
+
+## 🏆 ACHIEVEMENTS & MILESTONES
+
+<div align="center">
+
+```diff
++ 🚀 15+ Production-Ready Projects Deployed
++ 📱 Mobile Applications Published on App Stores
++ 🌐 Full-Stack Web Applications with Modern Tech Stack
++ 🤖 AI-Powered Solutions & Machine Learning Integration
++ 🔧 Open Source Contributions & Community Projects
++ ⚡ Real-Time Applications & System Monitoring Tools
++ 🎨 UI/UX Design & Responsive Web Development
++ � Data Visualization & Analytics Dashboards
+```
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+</div>
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white)](mailto:jerickogarcia0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-45B7D1?style=for-the-badge&logoColor=white)](https://linkedin.com/in/jericko-garcia)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-96CEB4?style=for-the-badge&logoColor=white)](https://github.com/ProTechPh)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48a4c.gif" width="300">
+</div>
+
+## 💼 OPEN FOR COMMISSIONS
+
+<div align="center">
+
+### 🔥 **READY TO BUILD YOUR NEXT BIG IDEA?**
+
+```yaml
+Services:
+  - 🌐 Full-Stack Web Development
+  - 📱 Mobile App Development (Flutter/React Native)
+  - 🤖 AI Integration & Machine Learning Solutions
+  - 🎨 UI/UX Design & Prototyping
+  - � Data Analytics & Visualization
+  - ⚡ Real-Time Applications & APIs
+
+Specialties:
+  - React/Next.js Ecosystem
+  - Python/Flask Backend Development
+  - Flutter Mobile Development
+  - Firebase/Supabase Integration
+  - Modern UI/UX Design
+
+Contact: jerickogarcia0@gmail.com
+Status: ✅ Available for new projects!
+```
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProTechPh&color=60A5FA&style=for-the-badge" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
 
 <div align="center">
-  <i>⭐️ From [ProTechPh](https://github.com/ProTechPh)</i>
+  <img src="https://komarev.com/ghpvc/?username=ProTechPh&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+  <br>
+  <i><b>⭐️ Crafted with passion by [ProTechPh](https://github.com/ProTechPh) ⭐️</b></i>
 </div>
