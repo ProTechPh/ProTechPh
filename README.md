@@ -166,7 +166,7 @@ const jericko = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](protech.works)
 [![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white)](mailto:jerickogarcia0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-45B7D1?style=for-the-badge&logoColor=white)](https://linkedin.com/in/jericko-garcia)
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-96CEB4?style=for-the-badge&logoColor=white)](https://github.com/ProTechPh)
