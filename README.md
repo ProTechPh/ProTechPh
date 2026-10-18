@@ -1,222 +1,182 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+FULL+STACK+DEVELOPER;💻+SOFTWARE+ENGINEER;🎨+UI%2FUX+ENTHUSIAST;⚡+PROBLEM+SOLVER;🌟+INNOVATION+DRIVEN" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:292929,100:0A0A0A&height=220&section=header&text=JERICKO%20GARCIA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER&descAlignY=57&descSize=16" width="100%" alt="Jericko Garcia profile banner" />
+
+  <a href="https://www.jerickogarcia.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=EAEAEA&center=true&vCenter=true&width=760&lines=I+build+software+people+enjoy+using.;Web+%E2%80%A2+Mobile+%E2%80%A2+AI+%E2%80%A2+Developer+Tools;Clean+code.+Good+UX.+Clear+communication." alt="Animated introduction" />
+  </a>
+
+  <p>
+    Full Stack Developer and Software Engineer from the Philippines 🇵🇭<br />
+    turning ambitious ideas into fast, accessible, and maintainable products.
+  </p>
+
+  <p>
+    <a href="https://www.jerickogarcia.com"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
+    <a href="mailto:jerickogarcia0@gmail.com"><img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-FFFFFF?style=for-the-badge&logo=gmail&logoColor=111111" alt="Let's work together" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ProTechPh&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/ProTechPh?style=flat-square&color=111111&label=FOLLOWERS" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/AVAILABLE_FOR_SELECT_PROJECTS-2E7D32?style=flat-square" alt="Available for select projects" />
+  </p>
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+---
 
-## 🔥 ABOUT THE DEVELOPER
+## `01` — About
 
-```typescript
+```ts
 const jericko = {
-    name: "Jericko Garcia",
-    role: "Full Stack Developer & Software Engineer",
-    location: "Philippines 🇵🇭",
-    status: "Open for Commissions 💼",
-
-    currentFocus: ["Capstone Projects", "AI Integration", "Mobile Development"],
-
-    techStack: {
-        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-        backend: ["Python", "PHP", "Node.js", "Flask"],
-        mobile: ["Flutter", "React Native"],
-        database: ["Firebase", "Supabase", "MySQL", "SQLite"],
-        tools: ["Git", "Vercel", "Docker", "VS Code"]
-    },
-
-    philosophy: "Clean Code + Great UX = Amazing Products ✨",
-
-    contact: {
-        email: "jerickogarcia0@gmail.com",
-        availability: "Always ready for new challenges! 🚀"
-    }
+  role: "Full Stack Developer & Software Engineer",
+  location: "Philippines 🇵🇭",
+  work: ["Web Apps", "Mobile Apps", "AI Integrations", "Developer Tools"],
+  currentFocus: ["Production Systems", "Open Source", "Great Product UX"],
+  principles: ["Clean code", "Useful design", "Clear communication"],
+  availability: "Open for commissions and collaborations",
 };
 ```
 
+I work across the full product stack—from interface design and frontend architecture to APIs, databases, authentication, and deployment. I enjoy building practical tools, scalable platforms, and polished experiences that solve real problems.
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  <a href="https://www.jerickogarcia.com">
+    <img src="https://www.jerickogarcia.com/opengraph-image" width="820" alt="Jericko Garcia portfolio preview" />
+  </a>
+  <br />
+  <sub>My portfolio is interactive—click the preview to explore it.</sub>
 </div>
 
-## ⚡ TECH ARSENAL
+## `02` — Currently Building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>⚡ Mira-AI</strong><br /><br />
+      Expanding a cross-platform workspace for managing AI IDE accounts, usage quotas, sessions, and developer workflows.
+    </td>
+    <td width="50%" valign="top">
+      <strong>◉ ProTech Portfolio</strong><br /><br />
+      Evolving my portfolio with live project data, refined interactions, stronger accessibility, and a Supabase-powered CMS.
+    </td>
+  </tr>
+</table>
+
+> **Current direction:** building dependable developer tools and production-ready experiences where engineering quality and thoughtful design work together.
+
+## `03` — Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>◉ Mira-AI</h3>
+      <p>Multi-platform AI IDE account manager with one-click switching, quota monitoring, multi-instance support, and real-time integrations.</p>
+      <p><code>TypeScript</code> <code>React</code> <code>Tauri</code> <code>Rust</code></p>
+      <a href="https://github.com/ProTechPh/Mira-AI">View repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>◐ Kiro Account Manager</h3>
+      <p>Desktop account workspace with automatic token refresh, proxy support, machine identity controls, themes, and an integrated AI chat.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Electron</code> <code>Zustand</code></p>
+      <a href="https://github.com/ProTechPh/Kiro-account-manager">View repository ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>▦ School Management System</h3>
+      <p>Production platform for student records, attendance, grades, and administration—built for a real educational institution.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Tailwind</code></p>
+      <a href="https://github.com/ProTechPh/School-Management-System">View repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ ProTech Portfolio</h3>
+      <p>Interactive halftone portfolio with live GitHub activity, keyboard navigation, a Supabase CMS, protected admin tools, and lead capture.</p>
+      <p><code>Next.js 16</code> <code>React 19</code> <code>Supabase</code> <code>Vitest</code></p>
+      <a href="https://www.jerickogarcia.com">Visit live site ↗</a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/ProTechPh?tab=repositories"><strong>Browse all repositories →</strong></a>
+</div>
+
+## `04` — Technical Toolkit
 
 <div align="center">
 
-### 🎯 Frontend Mastery
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,bootstrap&theme=dark" />
+### Frontend
 
-### 🔧 Backend Power
-<img src="https://skillicons.dev/icons?i=python,php,nodejs,flask,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" alt="Frontend technologies" />
 
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,dart&theme=dark" />
+### Backend & Data
 
-### 🗄️ Database & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,php,express,supabase,firebase,postgres,mysql,sqlite&theme=dark" alt="Backend and database technologies" />
 
-### 🛠️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark" />
+### Mobile, Desktop & Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,tauri,docker,git,github,vercel,vscode&theme=dark" alt="Mobile, desktop, and development tools" />
 
 </div>
 
+## `05` — GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=react,reactjs,React;nextjs,Next.js,Next.js;typescript,TypeScript,TypeScript;&line2=python,Python,Python;flutter,Flutter,Flutter;firebase,Firebase,Firebase;&line3=tailwindcss,TailwindCSS,Tailwind;mysql,MySQL,MySQL;git,Git,Git;" alt="Tech Stack" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ProTechPh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=A3A3A3&text_color=D4D4D4&ring_color=FFFFFF" alt="Jericko's GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProTechPh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=D4D4D4" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProTechPh&bg_color=0D1117&color=D4D4D4&line=FFFFFF&point=737373&area=true&area_color=404040&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
 </div>
 
-## 📊 GITHUB ANALYTICS
+## `06` — Experience & Education
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProTechPh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProTechPh&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
-</div>
+```text
+2021 — PRESENT
+Bachelor of Science in Information Technology
+PHINMA University of Pangasinan
+└─ Focused on software engineering, web technologies, and modern development practices
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProTechPh&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
+2023
+Senior High Summit & Career Guidance Expo
+└─ Professional development, technology careers, and industry readiness
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProTechPh&theme=redical&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ProTechPh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-</div>
-
-## � FEATURED PROJECTS
-
-<div align="center">
-
-| 🏆 **PROJECT** | 🔗 **LIVE DEMO** | ⚡ **TECH STACK** |
-|:---:|:---:|:---:|
-| **�📱 Gitfolio** | [🚀 Launch](https://tinyurl.com/Gitfolio1) | `Flutter` `PostgreSQL` `SQLite` |
-| **🛒 E-commerce** | [🚀 Launch](https://e-commerce-jericko12s-projects.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
-| **🍳 Recipe Hub** | [🚀 Launch](https://recipe-hub-jericko12s-projects.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
-| **💸 WalletWise** | [🚀 Launch](https://wallet-wise-rho.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
-| **💊 MediTime** | [🚀 Launch](https://medi-time-rosy.vercel.app/) | `React` `TypeScript` `TailwindCSS` |
-| **✅ TaskMaster** | [🚀 Launch](https://task-master-efficient-task-management-suite.vercel.app/) | `Next.js` `TypeScript` `TailwindCSS` |
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProTechPh&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
-</div>
-
-### � **HIGHLIGHT PROJECTS**
-
-<details>
-<summary><b>🤖 AI-Powered Resume Analyzer</b></summary>
-<br>
-<blockquote>
-🎯 <b>Revolutionary AI-driven platform</b> that analyzes resumes and matches users to perfect job opportunities<br>
-⚡ <b>Tech:</b> Python • Flask • NLP • Machine Learning • Bootstrap<br>
-🌟 <b>Features:</b> Smart Analysis • Job Matching • Improvement Suggestions
-</blockquote>
-</details>
-
-<details>
-<summary><b>💰 Smart Finance Tracker</b></summary>
-<br>
-<blockquote>
-📊 <b>Comprehensive financial management</b> with AI-powered insights and beautiful visualizations<br>
-⚡ <b>Tech:</b> Python • Flask • SQLAlchemy • Pandas • NumPy • Matplotlib<br>
-🌟 <b>Features:</b> Expense Tracking • Budget Analysis • Financial Insights
-</blockquote>
-</details>
-
-<details>
-<summary><b>📊 System Health Dashboard</b></summary>
-<br>
-<blockquote>
-🖥️ <b>Real-time system monitoring</b> with beautiful GUI and comprehensive resource tracking<br>
-⚡ <b>Tech:</b> Python • Tkinter • Matplotlib • Psutil<br>
-🌟 <b>Features:</b> CPU/RAM Monitoring • Network Stats • Temperature Tracking
-</blockquote>
-</details>
-
-## 🏆 ACHIEVEMENTS & MILESTONES
-
-<div align="center">
-
-```diff
-+ 🚀 15+ Production-Ready Projects Deployed
-+ 📱 Mobile Applications Published on App Stores
-+ 🌐 Full-Stack Web Applications with Modern Tech Stack
-+ 🤖 AI-Powered Solutions & Machine Learning Integration
-+ 🔧 Open Source Contributions & Community Projects
-+ ⚡ Real-Time Applications & System Monitoring Tools
-+ 🎨 UI/UX Design & Responsive Web Development
-+ � Data Visualization & Analytics Dashboards
+2017 — 2021
+Daniel Maramba National High School
+└─ Built a strong academic and technical foundation
 ```
 
-</div>
+## `07` — What I Can Build
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
+| Service | Scope |
+|---|---|
+| **Full-stack development** | Responsive applications, dashboards, APIs, authentication, and database architecture |
+| **Mobile & desktop apps** | Cross-platform products using Flutter, Tauri, and Electron |
+| **AI integration** | Intelligent workflows, assistants, NLP tools, and model-powered product features |
+| **UI/UX implementation** | Accessible interfaces, design systems, interactions, and responsive experiences |
+| **Academic systems** | Capstone platforms, management systems, documentation, and deployment support |
 
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://www.protech.works)
-[![Email](https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logoColor=white)](mailto:jerickogarcia0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-45B7D1?style=for-the-badge&logoColor=white)](https://linkedin.com/in/jericko-garcia)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-96CEB4?style=for-the-badge&logoColor=white)](https://github.com/ProTechPh)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48a4c.gif" width="300">
-</div>
-
-## 💼 OPEN FOR COMMISSIONS
+## `08` — Let's Connect
 
 <div align="center">
 
-### 🔥 **READY TO BUILD YOUR NEXT BIG IDEA?**
+  <p><strong>Have an idea, project, or collaboration in mind?</strong></p>
+  <p>I am open to select freelance work, commissions, partnerships, and technical collaborations.</p>
 
-```yaml
-Services:
-  - 🌐 Full-Stack Web Development
-  - 📱 Mobile App Development (Flutter/React Native)
-  - 🤖 AI Integration & Machine Learning Solutions
-  - 🎨 UI/UX Design & Prototyping
-  - � Data Analytics & Visualization
-  - ⚡ Real-Time Applications & APIs
-
-Specialties:
-  - React/Next.js Ecosystem
-  - Python/Flask Backend Development
-  - Flutter Mobile Development
-  - Firebase/Supabase Integration
-  - Modern UI/UX Design
-
-Contact: jerickogarcia0@gmail.com
-Status: ✅ Available for new projects!
-```
+  <a href="https://www.jerickogarcia.com"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jericko-garcia-689986296"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jerickogarcia0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://play.google.com/store/apps/dev?id=6392585599893101233"><img src="https://img.shields.io/badge/PLAY_STORE-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play developer profile" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProTechPh&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-  <br>
-  <i><b>⭐️ Crafted with passion by [ProTechPh](https://github.com/ProTechPh) ⭐️</b></i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:292929,100:0A0A0A&height=120&section=footer" width="100%" alt="Footer wave" />
+  <br />
+  <sub><strong>Build things that are useful. Make them feel exceptional.</strong></sub>
 </div>
