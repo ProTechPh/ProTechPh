@@ -20,11 +20,10 @@
     <img src="https://komarev.com/ghpvc/?username=ProTechPh&style=flat-square&color=111111&label=PROFILE+VIEWS" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/ProTechPh?style=flat-square&color=111111&label=FOLLOWERS" alt="GitHub followers" />
     <img src="https://img.shields.io/badge/AVAILABLE_FOR_SELECT_PROJECTS-2E7D32?style=flat-square" alt="Available for select projects" />
+    <a href="https://www.dev-station.dev/portfolio/2b54e8a7-c018-422f-92a5-9edefec4f117"><img src="https://www.dev-station.dev/badge.svg" height="20" alt="Featured on DEV/STATION" /></a>
   </p>
 
 </div>
-
-[![Featured on DEV/STATION](https://www.dev-station.dev/badge-vertical.svg)](https://www.dev-station.dev/portfolio/2b54e8a7-c018-422f-92a5-9edefec4f117)
 
 ---
 
